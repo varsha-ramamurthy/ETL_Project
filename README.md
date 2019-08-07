@@ -1,5 +1,5 @@
 # Wine Reviews ETL Project
-ETL Project pulling data from reviews of different wines in csv and json format and storing data in a SQL database
+ETL Project pulling data from reviews of different wines across the world sampled and rated by a "taster" from two different data sources in csv and json format and storing the data, cleaned up using pandas, in a SQL database
 
 ## CSV Files ETL
 
